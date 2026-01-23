@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="left">Hi there 👋, I'm Gunjan Pokharel</h1>
 
-<!--
-**imgunjan/imgunjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">AI/ML Engineer | Backend Developer</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">🚀 I build scalable backend systems and production-ready AI/ML solutions that turn data into real-world impact. With hands-on experience in machine learning pipelines, high-performance APIs, and cloud-native deployments, I enjoy solving complex problems at the intersection of software engineering and artificial intelligence.</p>
+
+###
+
+<h4 align="left">🧠 About Me<br><br>💼 Software Engineer with a strong focus on AI/ML engineering and backend development<br><br>⚙️ Experienced in building end-to-end ML systems, from data ingestion to model deployment<br><br>📊 Passionate about data pipelines, system optimization, and MLOps<br><br>🌱 Always learning and exploring better ways to build reliable, scalable systems<br><br>📍 Based in Kathmandu, Nepal</h4>
+
+###
